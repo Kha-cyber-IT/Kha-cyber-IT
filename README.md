@@ -55,4 +55,4 @@ I build and secure cloud infrastructure, automate system administration, and eng
 
 ### 📬 Connect With Me
 * **Role Interests:** Cloud Support Engineer, Systems Administrator, Security Analyst, IoT Tech.
-* **Location:** Soweto, Johannesburg, South Africa.
+* **Location:** South Africa.
