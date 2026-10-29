@@ -54,5 +54,5 @@ I build and secure cloud infrastructure, automate system administration, and eng
 ---
 
 ### 📬 Connect With Me
-* **Role Interests:** Junior Cloud Support, Junior Cloud Engineer,Junior Systems Administrator,Junior Security Analyst,Junior IoT Tech.
+* **Role Interests:** Junior Cloud Support, Junior Cloud Engineer, Junior Systems Administrator, Junior Security Analyst,Junior IoT Tech.
 * **Location:** South Africa.
